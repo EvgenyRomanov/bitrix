@@ -1,1 +1,5 @@
-bitrix
+bitrix/
+!local/templates/.default/components/bitrix/
+!local/templates/voguish_blog/components/bitrix/
+!local/templates/voguish_index/components/bitrix/
+!local/templates/voguish_single/components/bitrix/
